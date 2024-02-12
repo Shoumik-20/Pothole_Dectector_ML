@@ -1,5 +1,11 @@
 ## Pothole Detector
 
+Winning Project of the FUN HACKATHON WEEKEND organized by Coding Dojo 
+
+Project demo link: https://www.youtube.com/watch?v=dp6yhGNwfZQ&ab_channel=EmilyRamos
+
+Code of Verification of presence of a Pothole in a Photograph taken by the user
+
 Classifying images into two categories:
 1. Potholes
 2. Normal
